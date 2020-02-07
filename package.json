@@ -1,0 +1,20 @@
+{
+  "name": "blackbaze_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "backblaze-b2": "^1.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase": "^7.3.0",
+    "firebase-admin": "^8.7.0",
+    "nodemon": "^1.19.4",
+    "stream-file": "^0.2.4"
+  }
+}
